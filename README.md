@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img width="45" alt="about" src="https://raw.github.com/lobanovdmitry/lobanovdmitry/main/clock.svg">
+<img src="./clock.svg">
 
 <!--
 **lobanovdmitry/lobanovdmitry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
