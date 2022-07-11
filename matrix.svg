@@ -1,0 +1,47 @@
+<svg width="500" height="500">
+  <text x=0 y=0 rotate=-90 transform= "rotate(90)" letter-spacing="1em">123123
+	<animateMotion path="M 0 0 V 500" dur="1s" fill="freeze" repeatCount="3"/>
+  </text>
+  <text x=0 y=0 rotate=-90 transform= "rotate(90)" letter-spacing="1em">123123
+	<animateMotion path="M 10 0 V 500" dur="5s" fill="freeze" repeatCount="3"/>
+  </text>
+  <text x=0 y=0 rotate=-90 transform= "rotate(90)" letter-spacing="1em">1231231
+	<animateMotion path="M 20 0 V 500" dur="2s" fill="freeze" repeatCount="3"/>
+  </text>
+  <text x=0 y=0 rotate=-90 transform= "rotate(90)" letter-spacing="1em">12335
+	<animateMotion path="M 30 0 V 500" dur="4s" fill="freeze" repeatCount="3"/>
+  </text>
+  <text x=0 y=0 rotate=-90 transform= "rotate(90)" letter-spacing="1em">453454
+	<animateMotion path="M 40 0 V 500" dur="1s" fill="freeze" repeatCount="3"/>
+  </text>
+    <text x=0 y=0 rotate=-90 transform= "rotate(90)" letter-spacing="1em">123123
+	<animateMotion path="M 50 0 V 500" dur="1s" fill="freeze" repeatCount="3"/>
+  </text>
+  <text x=0 y=0 rotate=-90 transform= "rotate(90)" letter-spacing="1em">123123
+	<animateMotion path="M 60 0 V 500" dur="5s" fill="freeze" repeatCount="3"/>
+  </text>
+  <text x=0 y=0 rotate=-90 transform= "rotate(90)" letter-spacing="1em">1231231asdf
+	<animateMotion path="M 70 0 V 500" dur="2s" fill="freeze" repeatCount="3"/>
+  </text>
+  <text x=0 y=0 rotate=-90 transform= "rotate(90)" letter-spacing="1em">12335sdfa
+	<animateMotion path="M 80 0 V 500" dur="4s" fill="freeze" repeatCount="3"/>
+  </text>
+  <text x=0 y=0 rotate=-90 transform= "rotate(90)" letter-spacing="1em">453454asdfa
+	<animateMotion path="M 90 0 V 500" dur="1s" fill="freeze" repeatCount="3"/>
+  </text>
+  <text x=0 y=0 rotate=-90 transform= "rotate(90)" letter-spacing="1em">123123
+	<animateMotion path="M 100 0 V 500" dur="1s" fill="freeze" repeatCount="3"/>
+  </text>
+  <text x=0 y=0 rotate=-90 transform= "rotate(90)" letter-spacing="1em">123123asdfas
+	<animateMotion path="M 110 0 V 500" dur="5s" fill="freeze" repeatCount="3"/>
+  </text>
+  <text x=0 y=0 rotate=-90 transform= "rotate(90)" letter-spacing="1em">1231231
+	<animateMotion path="M 120 0 V 500" dur="2s" fill="freeze" repeatCount="3"/>
+  </text>
+  <text x=0 y=0 rotate=-90 transform= "rotate(90)" letter-spacing="1em">12335asdfa
+	<animateMotion path="M 130 0 V 500" dur="4s" fill="freeze" repeatCount="3"/>
+  </text>
+  <text x=0 y=0 rotate=-90 transform= "rotate(90)" letter-spacing="1em">453454asd
+	<animateMotion path="M 140 0 V 500" dur="1s" fill="freeze" repeatCount="3"/>
+  </text>
+</svg>
